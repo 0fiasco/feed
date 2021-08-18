@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Fiasco</title>
+    <googleplay:author>Vinicius L., Miguel D.</googleplay:author>
+    <rawvoice:rating>TV-G</rawvoice:rating>
+    <rawvoice:location>São Paulo, São Paulo</rawvoice:location>
+    <rawvoice:frequency>Esporadico</rawvoice:frequency>
+    <author>Vinicius L., Miguel D</author>
+    <itunes:author>Vinicius L., Miguel D.</itunes:author>
+    <itunes:email>ofiascopodcast@gmail.com</itunes:email>
+    <itunes:category text="Humor" />
+    <image>
+      <url>https://fiascopodcast.art/feed/img/icon.jpg</url>
+      <title>Fiasco</title>
+      <link>fiascopodcast.art/feed</link>
+    </image>
+    <itunes:owner>
+      <itunes:name>Vinicius L., Miguel D.</itunes:name>
+      <itunes:email>ofiascopodcast@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:keywords>Comedy,Movies,Series</itunes:keywords>
+    <copyright>Fiascopodcast 2021</copyright>
+    <description>O melhor podcast que o Brasil não quer</description>
+    <googleplay:image href="https://fiascopodcast.art/feed/img/icon.jpg" />
+    <language>pt-BR</language>
+    <itunes:explicit>no</itunes:explicit>
+    <pubDate>Wen, 18 Aug 2021 16:00:00 PDT</pubDate>
+    <link>https://fiascopodcast.art/feed/feed.xml</link>
+    <itunes:image href="https://fiascopodcast.art/feed/img/icon.jpg" />
+    <item>
+      <author>Vinicius L., Miguel D.</author>
+      <itunes:author>Vinicius L., Miguel D.</itunes:author>
+      <title>Onde tudo começa</title>
+      <pubDate>Mon, 13 Apr 2020 13:00:00 GMT</pubDate>
+      <enclosure url="https://fiascopodcast.art/feed/audio/NOMEDOPROGRAMA.mp3" type="audio/mpeg" length="34216300" />
+      <itunes:duration></itunes:duration>
+      <guid isPermaLink="false">cepod01</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+Vinicius L. - @salamandrabranca
+
+Miguel D. - @miguel_diaferia
+
+        </description>
+    </item>
+  </channel>
+</rss>
